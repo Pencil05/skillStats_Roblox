@@ -1,5 +1,5 @@
-# skill to up Stats in Roblox \
-# this script must to be use with my stats script(look at my git) \ 
+# skill to up Stats in Roblox 
+# this script must to be use with my stats script(look at my git) 
 1.creat local script under your toolskill \
 2.creat remote under local script \
 3.creat script under remote \
